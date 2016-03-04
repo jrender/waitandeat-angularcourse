@@ -1,0 +1,9 @@
+{
+  "firebase": "waitandeat-jrender",
+  "public": "src",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
